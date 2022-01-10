@@ -2,6 +2,8 @@
 
 ## React, Pure CSS Season Message app
 
+project Preview ![img](https://user-images.githubusercontent.com/66258652/148818546-38ccd06f-770f-486d-be6e-fc5c05379405.png)
+
 ### `npm start`
 
 Runs the app in the development mode.\
