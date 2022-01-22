@@ -2,13 +2,10 @@
 
 ## React, Pure CSS Season Message app
 
-- Ask for the user name
+- Ask for the user name (need location access)
 
-![image](https://user-images.githubusercontent.com/66258652/148819288-782ac0c1-17ae-408e-838b-c40bac48fd4a.png)
-
-- project Preview
-
-![img](https://user-images.githubusercontent.com/66258652/148818546-38ccd06f-770f-486d-be6e-fc5c05379405.png)
+| ![image](https://user-images.githubusercontent.com/66258652/148819288-782ac0c1-17ae-408e-838b-c40bac48fd4a.png) | ![img](https://user-images.githubusercontent.com/66258652/148818546-38ccd06f-770f-486d-be6e-fc5c05379405.png) |
+|:---:|:---:|
 
 
 Project link [/reactjs-location-season-message/](https://ullaskunder3.github.io/reactjs-location-season-message/)
